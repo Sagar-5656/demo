@@ -11,11 +11,6 @@ public class YogeshMethod {
 			System.out.println("Method 2");
 		}
 		
-		
-		public void m3() {
-			System.out.println("Method 3");
-		}
-		
 		public static void main(String[] args) {
 			
 			System.out.println("Yogesg Programe");
