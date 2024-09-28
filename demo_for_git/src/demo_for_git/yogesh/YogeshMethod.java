@@ -10,6 +10,15 @@ public class YogeshMethod {
 		public void m2() {
 			System.out.println("Method 2");
 		}
+
+	        public void m2() {
+			System.out.println("Method 3");
+		}
+
+	        public void m2() {
+			System.out.println("Method 2");
+		}
+	
 		
 		public static void main(String[] args) {
 			
